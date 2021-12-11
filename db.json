@@ -1,0 +1,350 @@
+{
+  "restaurants": [
+    {
+      "name": "Chipotle",
+      "description": "Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bows.",
+      "cuisine": "Mexican",
+      "meals": [
+        {
+          "breakfast": false,
+          "lunch": true,
+          "dinner": true
+        }
+      ],
+      "location": "South of Campus",
+      "address": "3748 S Figueroa St Los Angeles, CA 90007",
+      "distFromUsc": "0.2",
+      "rating": "4.1",
+      "favorite": true,
+      "favDate": "",
+      "menu": "https://chipotle.com/order#menu",
+      "dateAdded": "",
+      "hours": [
+        {
+          "monday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "thursday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "friday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "saturday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ],
+          "sunday": [
+            {
+              "open": "10:30",
+              "close": "23:00"
+            }
+          ]
+        }
+      ],
+      "authorId": "0",
+      "id": "l7hJLoh"
+    },
+    {
+      "name": "Cava",
+      "description": "Mediterranean restaurant for thoughtful food with customizable greens & grains bowls, pitas & salad.",
+      "cuisine": "Mediterranean",
+      "meals": [
+        {
+          "breakfast": false,
+          "lunch": true,
+          "dinner": true
+        }
+      ],
+      "location": "USC Village",
+      "address": "3201 S Hoover St Suite 1840, Los Angeles, CA 90089",
+      "distFromUsc": "0.2",
+      "rating": "4.5",
+      "favorite": true,
+      "favDate": "",
+      "menu": "https://cava.com/menu",
+      "dateAdded": "",
+      "hours": [
+        {
+          "monday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "thursday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "friday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "saturday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ],
+          "sunday": [
+            {
+              "open": "10:45",
+              "close": "22:00"
+            }
+          ]
+        }
+      ],
+      "authorId": "0",
+      "id": "pUcc--T"
+    },
+    {
+      "name": "Chick-fil-A",
+      "description": "Fast-food chain serving chicken sandwiches, strips & nuggets along with salads & sides.",
+      "cuisine": "Chicken",
+      "meals": [
+        {
+          "breakfast": true,
+          "lunch": true,
+          "dinner": true
+        }
+      ],
+      "location": "South of Campus",
+      "address": "3758 S Figueroa St, Los Angeles, CA 90007",
+      "distFromUsc": "0.2",
+      "rating": "4.3",
+      "favorite": false,
+      "favDate": "",
+      "menu": "https://www.chick-fil-a.com/menu",
+      "dateAdded": "",
+      "hours": [
+        {
+          "monday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "thursday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "friday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "saturday": [
+            {
+              "open": "06:30",
+              "close": "23:00"
+            }
+          ],
+          "sunday": [
+            {
+              "open": "00:00",
+              "close": "00:00"
+            }
+          ]
+        }
+      ],
+      "authorId": "0",
+      "id": "9CtWC2X"
+    },
+    {
+      "name": "Blaze Pizza",
+      "description": "Hip counter-serve pizzeria dishing up crispy, thin-crust pies made with creative toppings & sauces.",
+      "cuisine": "Pizza",
+      "meals": [
+        {
+          "breakfast": false,
+          "lunch": true,
+          "dinner": true
+        }
+      ],
+      "location": "University Gateway",
+      "address": "3335 S Figueroa St, Los Angeles, CA 90007",
+      "distFromUsc": "0.2",
+      "rating": "4.3",
+      "favorite": true,
+      "favDate": "",
+      "menu": "https://hq.blazepizza.com/menu/",
+      "dateAdded": "",
+      "hours": [
+        {
+          "monday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "thursday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "friday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "saturday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ],
+          "sunday": [
+            {
+              "open": "11:00",
+              "close": "22:00"
+            }
+          ]
+        }
+      ],
+      "authorId": "0",
+      "id": "crKm9GA"
+    },
+    {
+      "name": "Subway",
+      "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+      "cuisine": "Sandwiches",
+      "meals": [
+        {
+          "breakfast": true,
+          "lunch": true,
+          "dinner": true
+        }
+      ],
+      "location": "University Gateway",
+      "address": "3335 S Figueroa St, Los Angeles, CA 90007",
+      "distFromUsc": "0.3",
+      "rating": "3.8",
+      "favorite": false,
+      "favDate": "",
+      "menu": "https://order.subway.com/en-us/restaurant/48845-0/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acquisition&utm_content=48845&utm_campaign=yxt-restaurant-listing-allyear-2020&cid=0%3Atx%3A0%3Aswy-web%3A0%3A0&segment_code=0&y_source=1_MTQ5MTMwNDktNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+      "dateAdded": "",
+      "hours": [
+        {
+          "monday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "thursday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "friday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "saturday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ],
+          "sunday": [
+            {
+              "open": "08:00",
+              "close": "23:00"
+            }
+          ]
+        }
+      ],
+      "authorId": "0",
+      "id": "Sqh24Pp"
+    }
+  ],
+  "authors": [
+    {
+      "id": "0",
+      "name": "Landon Smith"
+    }
+  ]
+}
